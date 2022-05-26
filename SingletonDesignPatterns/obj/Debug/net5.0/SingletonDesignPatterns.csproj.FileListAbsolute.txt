@@ -1,0 +1,15 @@
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.exe
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.deps.json
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.runtimeconfig.json
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.runtimeconfig.dev.json
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.dll
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\ref\SingletonDesignPatterns.dll
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\bin\Debug\net5.0\SingletonDesignPatterns.pdb
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.AssemblyInfoInputs.cache
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.AssemblyInfo.cs
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.csproj.CoreCompileInputs.cache
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.dll
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\ref\SingletonDesignPatterns.dll
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.pdb
+C:\WORK\LEARNING_PROJECTS\DesignPatterns\obj\Debug\net5.0\SingletonDesignPatterns.genruntimeconfig.cache
